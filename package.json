@@ -1,0 +1,17 @@
+{
+  "name": "test-dynamo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "luxon": "^3.5.0",
+    "uuid": "^11.1.0"
+  }
+}
